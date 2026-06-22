@@ -7,8 +7,7 @@
 🚀 Criando soluções para problemas reais
 
 ## Projetos
-- Sistema de Agendamento para Centro de Tecnologia
-- Sistema Hamburgueria
+- Sistema de Agendamento para Centro de Tecnologico
 
 ## Atualmente
 📚 Cursando Análise e Desenvolvimento de Sistemas
