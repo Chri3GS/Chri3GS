@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Christian 👋
 
-<!--
-**Chri3GS/Chri3GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação
 
-Here are some ideas to get you started:
+🐍 Python | Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Criando soluções para problemas reais
+
+## Projetos
+- Sistema de Agendamento para Centro de Tecnologia
+- Sistema Hamburgueria
+
+## Atualmente
+📚 Cursando Análise e Desenvolvimento de Sistemas
