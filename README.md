@@ -8,6 +8,7 @@
 
 ## Projetos
 - Sistema de Agendamento para Centro de Tecnologico
+- Sistema de que reúne empresas da cidade
 
 ## Atualmente
 📚 Cursando Análise e Desenvolvimento de Sistemas
